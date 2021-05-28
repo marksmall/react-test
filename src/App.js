@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <span>Add some text</span>
+        <span>amended text</span>
       </header>
     </div>
   );
